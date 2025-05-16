@@ -17,7 +17,9 @@ Run Digital Clock as a Clock Overlay for KDE Plasma
 
 Click **Code** > **Download zip**, then extract the file.
 
-Copy `plasmawindowed-clockoverlay.desktop` to `/home/$USER/.config/autostart/` (to run at Desktop Mode / KDE Plasma startup), `/home/$USER/.local/share/applications/` (for App Launcher/Start Menu), or  `/home/$USER/Desktop` (for Desktop access). Double click it to run immediatelly (or copy-paste the Exec command to terminal).
+Copy `plasmawindowed-clockoverlay.desktop` to `/home/$USER/.config/autostart/` (to run at Desktop Mode / KDE Plasma startup), `/home/$USER/.local/share/applications/` (for App Launcher/Start Menu), or  `/home/$USER/Desktop` (for Desktop access).
+
+Double click it to run immediately (or copy-paste the Exec command to terminal).
 
 (If you want to change to 24-hours, do it now -- click it and open its setting -- as it has its own setting separate from any existing clock widgets)
 
